@@ -31,10 +31,10 @@ const fvid = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `LoRD-MD`,
-                 "h": `LoRD-MD`,
+                 "title": `MR-MD`,
+                 "h": `MR-MD`,
                  'duration': '99999', 
-                 'caption': `LoRD-MD`,
+                 'caption': `MR-MD`,
                  'jpegThumbnail': global.thumb
                         }
                        }
@@ -52,7 +52,7 @@ const lordofc = {
                             itemCount : 123,
                             itemCoun : 404,
                             surface : 404,
-                            message: `© LoRD-MD`,
+                            message: `© MR-MD`,
                             orderTitle: 'B',
                             thumbnail: global.thumb, 
                             sellerJid: '0@s.whatsapp.net'
@@ -63,40 +63,40 @@ const lordofc = {
 
 //tod Link
  const todlink =[
-'https://youtu.be/IiYRFELAC0s',
-'https://youtu.be/bNoFWGc1iJ0',
-'https://youtu.be/DKm8Fg7dAp0',
-'https://youtu.be/PagvjtVfsPk',
-'https://youtu.be/CQLgEvxPs2w',
-'https://youtu.be/MsLnLxxjzPE',
-'https://youtu.be/YkDCqgk-QZY',
-'https://youtu.be/RGihGa5eAA8',
-'https://youtu.be/YkDCqgk-QZY',
-'https://youtu.be/KCOdjVN-x64',
-'https://youtu.be/6t_fdHhFrTg',
-'https://youtu.be/xzu_ODGpCRs',
-'https://youtu.be/Rz1diG58Rhs',
-'https://youtu.be/umQDV0UHUsQ',
-'https://youtu.be/W3m3yKpMTDg',
-'https://youtu.be/jRDJv5lfiH0',
-'https://youtu.be/FjdUiHW5JpQ',
-'https://youtu.be/i3OgJLwB2lc',
-'https://youtu.be/r1_EDhYbsHA',
-'https://youtu.be/MsLnLxxjzPE',
-'https://youtu.be/JWHV8lPTzPs',
-'https://youtu.be/EjVcqMknvUU',
-'https://youtu.be/2iCEd94TZ4o',
-'https://youtu.be/S8F2L3v10mA',
-'https://youtu.be/xvRWA9_18So',
-'https://youtu.be/sSynIGIVjUs',
-'https://youtu.be/E6NQYmO2qbA',
-'https://youtu.be/usY2mQGtpyw',
-'https://youtu.be/dMPnLAXAOBY',
-'https://youtu.be/b0md2fEIFpg',
-'https://youtu.be/e08eDavj0oI',
-'https://youtu.be/IYo8iXPCmgQ',
-'https://youtu.be/iuHy1fHikVo',
-'https://youtu.be/TwbhA23jSsw',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M up',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
+'https://www.instagram.com/reel/CdIumXGlpnl/?igshid=YmMyMTA2M2Y=',
 ]
 let tod = todlink[Math.floor(Math.random() * (todlink.length))]
 
@@ -421,10 +421,10 @@ Selama ${clockString(new Date - user.afkTime)}
     
     case 'sc': 
     case 'script':
-    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝐋𝐨𝐑𝐃-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/Lord-official/LoRD-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🐦','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
+    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','ᴍᴇɴᴜ','369AubXZk','*\x20\x20*\x0a\x0a\x20\x0a\x0a\x20\x20\x20\x20\x20\x20','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'ᴏᴡɴᴇʀ'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
             break
 
-                case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'𝑮𝒊𝒕𝒉𝒖𝒃','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*𝑩𝑰𝑮\x20𝑻𝑯𝑨𝑵𝑲𝑺\x20𝑻𝑶*\x0a\x0a𝑫𝒆𝒗𝒊𝒍:\x20\x0ahttps://github.com/D-3-V-1-L\x0a𝑫𝒆𝒏𝒊𝒔:\x20\x0ahttps://github.com/Whatsden\x0a𝑵𝒆𝒆𝒓𝒂𝒋:\x20\x0ahttps://github.com/Neeraj-x0\x0a𝑨𝒋𝒎𝒂𝒍:\x20\x0ahttps://github.com/Ajmal-Achu','https://wa.me/919778383987','https://github.com/Lord-official','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
+                case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'ɪɴꜱᴛᴀɢʀᴀᴍ','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'ᴡʜᴀᴛꜱᴀᴩᴩ','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*\x20\x20*','https://wa.me/918590822912','http://instagram.com/_munavir._','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
             break
 		case 'runtime': {
 
@@ -582,7 +582,7 @@ let teks = `   〘 *👥 𝑻𝒂𝒈 𝑨𝒍𝒍* 〙
                 let anu = await styletext(text)
                 let teks = `Srtle Text From ${text}\n\n`
                 for (let i of anu) {
-                    teks += `🐦 *${i.name}* : ${i.result}\n\n`
+                    teks += `👻 *${i.name}* : ${i.result}\n\n`
                 }
                 m.reply(teks)
 	    }
@@ -862,12 +862,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: '𝑆𝑜𝑢𝑟𝑐𝑒 𝐶𝑜𝑑𝑒',
-                                    url: 'https://github.com/Lord-official/LoRD-MD'
+                                    url: 'https://github.com/'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'http://instagram.com/_munavir._'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -906,7 +906,7 @@ break
                             }, {
                                 urlButton: {
                                     displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'http://instagram.com/_munavir._'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1125,9 +1125,9 @@ case 'ytmp4': case 'video': case 'ytv': {
                 let media = await ytv(teks)
                 if (media.filesize >= 100000) return m.reply('File Over Limit '+util.format(media))
 let buttons = [
-                        { buttonId: `ytvv ${isUrl(text)} 240p`, buttonText: { displayText: '240p' }, type: 1 },
-                        { buttonId: `ytvv ${isUrl(text)} 360p`, buttonText: { displayText: '360p' }, type: 1 },
-                        { buttonId: `ytvv ${isUrl(text)} 720p`, buttonText: { displayText: '720p' }, type: 1 }
+                        { buttonId: 'ytvv ${isUrl(text)} 240p', buttonText: { displayText: '240p' }, type: 1 },
+                        { buttonId: 'ytvv ${isUrl(text)} 360p', buttonText: { displayText: '360p' }, type: 1 },
+                        { buttonId: 'ytvv ${isUrl(text)} 720p', buttonText: { displayText: '720p' }, type: 1 }
                     ]
 let lord =`🎥 𝒕𝒊𝒕𝒍𝒆 : ${media.title}\n💾 𝒇𝒊𝒍𝒆 𝒔𝒊𝒛𝒆 : ${media.filesizeF}\n🖇️ 𝒖𝒓𝒍 : ${isUrl(text)}`
                     await hisoka.sendButtonText(m.chat, buttons, lord, hisoka.user.name, m)
@@ -1135,8 +1135,13 @@ let lord =`🎥 𝒕𝒊𝒕𝒍𝒆 : ${media.title}\n💾 𝒇𝒊𝒍𝒆 �
              }
 break
 case 'ytvv': {
-	const _0x19ce90=_0x17e0;(function(_0x327a8a,_0xd43775){const _0x20cf75=_0x17e0,_0x2e97fd=_0x327a8a();while(!![]){try{const _0x518824=parseInt(_0x20cf75(0x130))/0x1*(parseInt(_0x20cf75(0x12b))/0x2)+-parseInt(_0x20cf75(0x13b))/0x3+parseInt(_0x20cf75(0x135))/0x4+-parseInt(_0x20cf75(0x12a))/0x5+-parseInt(_0x20cf75(0x136))/0x6+-parseInt(_0x20cf75(0x13c))/0x7*(-parseInt(_0x20cf75(0x137))/0x8)+parseInt(_0x20cf75(0x134))/0x9*(parseInt(_0x20cf75(0x13a))/0xa);if(_0x518824===_0xd43775)break;else _0x2e97fd['push'](_0x2e97fd['shift']());}catch(_0xcfeae0){_0x2e97fd['push'](_0x2e97fd['shift']());}}}(_0x7de5,0xc1a2c));let {yt,servers}=require(_0x19ce90(0x12d));function _0x7de5(){const _0x3f4d32=['reply','360','84870vtmjJi','4060236AXoBDX','115808TxFMYh','2715500KVufIc','2rwVtfm','mp4','./lib/y2mate','sendMessage','buffer','294422RODaeb','chat','ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...','toLowerCase','3213XFQHVz','285860MfYBWp','8703492OeYNdm','360jLHxJT'];_0x7de5=function(){return _0x3f4d32;};return _0x7de5();}if(!args||!args[0x0])throw![];function _0x17e0(_0x5036a8,_0x25026f){const _0x7de537=_0x7de5();return _0x17e0=function(_0x17e098,_0x41aa7a){_0x17e098=_0x17e098-0x12a;let _0x3cbe86=_0x7de537[_0x17e098];return _0x3cbe86;},_0x17e0(_0x5036a8,_0x25026f);}let quality=args[0x1]||_0x19ce90(0x139),server=(args[0x2]||servers[0x0])[_0x19ce90(0x133)](),{dl_link,thumb,title,filesize,filesizeF}=await yt(args[0x0],quality+'p',_0x19ce90(0x12c),quality,servers['includes'](server)?server:servers[0x0]),_thumb={};try{_thumb={'thumbnail':await(await fetch(thumb))[_0x19ce90(0x12f)]()};}catch(_0x47c135){}m[_0x19ce90(0x138)](_0x19ce90(0x132)),hisoka[_0x19ce90(0x12e)](m[_0x19ce90(0x131)],{'video':{'url':dl_link,'caption':'*ᴀᴍᴍᴜ-ᴍᴅ*'}},{'quoted':![]});
- }
+                let { ytv } = require('./lib/y2mate')
+                if (!text) throw `Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 360p`
+                let quality = args[1] ? args[1] : '360p'
+                let media = await ytv(text, quality)
+                if (media.filesize >= 100000) return m.reply('File Melebihi Batas '+util.format(media))
+                hisoka.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `🎥 𝒕𝒊𝒕𝒍𝒆 : ${media.title}\n💾 𝒇𝒊𝒍𝒆 𝒔𝒊𝒛𝒆 : ${media.filesizeF}\n🖇️ 𝒖𝒓𝒍 : ${isUrl(text)}` }, { quoted: m })
+            }
             break
             case 'instagram': case 'ig': case 'igdl': {
                 if (!text) throw 'No Query Url!'
@@ -1614,55 +1619,55 @@ case 'menulist':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `𝑯𝒊 ${pushname} \n𝑻𝒉𝒊𝒔 𝑰𝒔 𝒎𝒆𝒏𝒖`,
-                    description: `🐦`,
+                    description: `👻`,
                     buttonText: "Menu",
-                    footerText: "LoRD-MD",
+                    footerText: "MR-MD",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
 								"rows": [
 									{
-										"title": "𝑮𝒓𝒐𝒖𝒑 𝑴𝒆𝒏𝒖",
+										"title": "𝑮𝒓𝒐𝒖𝒑 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `groupmenu`
 									},
 									{
-										"title": "𝑪𝒐𝒏𝒗𝒆𝒓𝒕 𝑴𝒆𝒏𝒖",
+										"title": "𝑪𝒐𝒏𝒗𝒆𝒓𝒕 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `convertmenu`
 									},
 									{
-										"title": "𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑴𝒆𝒏𝒖",
+										"title": "𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `downloadmenu`
 									},
 									{
-										"title": "𝑺𝒆𝒂𝒓𝒄𝒉 𝑴𝒆𝒏𝒖",
+										"title": "𝑺𝒆𝒂𝒓𝒄𝒉 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `searchmenu`
 									},
 										{
-											"title": "𝑴𝒂𝒊𝒏 𝑴𝒆𝒏𝒖",
+											"title": "𝑴𝒂𝒊𝒏 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `mainmenu`
 										},
 										{
-											"title": "𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆 𝑴𝒆𝒏𝒖",
+											"title": "𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `databasemenu`
 										},
 										{
-											"title": "𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔 𝑴𝒆𝒏𝒖",
+											"title": "𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `anonymousmenu`
 										},
 										{
-										"title": "𝑽𝒐𝒊𝒄𝒆 𝑴𝒆𝒏𝒖",
+										"title": "𝑽𝒐𝒊𝒄𝒆 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `voicemenu`
 										},
 										{
-											"title": "𝑶𝒘𝒏𝒆𝒓 𝑴𝒆𝒏𝒖",
+											"title": "𝑶𝒘𝒏𝒆𝒓 ᴍᴇɴᴜ",
 										"description": "",
 										"rowId": `ownermenu`
 										},
@@ -1683,124 +1688,113 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
 case 'allmenu': {
-  	anu = `
-      𝐀𝐋𝐋 𝐌𝐄𝐍𝐔
+  	anu = ` 
+   𝐀𝐋𝐋 𝐌𝐄𝐍𝐔
   
-  *𝑮𝑹𝑶𝑼𝑷 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑙𝑖𝑛𝑘𝑔𝑟𝑜𝑢𝑝
-𑁍 ${prefix}𝑠𝑒𝑡𝑝𝑝𝑔𝑐[𝒊𝒎𝒂𝒈𝒆]
-𑁍 ${prefix}𝑠𝑒𝑡𝑛𝑎𝑚𝑒 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑠𝑒𝑡𝑑𝑒𝑠𝑐 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑔𝑟𝑜𝑝 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑒𝑑𝑖𝑡𝑖𝑛𝑓𝑜 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑎𝑑𝑑 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑘𝑖𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}ℎ𝑖𝑑𝑒𝑡𝑎𝑔 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑡𝑎𝑔𝑎𝑙𝑙 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 [𝒐𝒏/𝒐𝒇𝒇]
-𑁍 ${prefix}𝑚𝑢𝑡𝑒 [𝒐𝒏/𝒐𝒇𝒇]
-𑁍 ${prefix}𝑝𝑟𝑜𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑑𝑒𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑣𝑜𝑡𝑒 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑑𝑒𝑣𝑜𝑡𝑒
-𑁍 ${prefix}𝑢𝑝𝑣𝑜𝑡𝑒
-𑁍 ${prefix}𝑐𝑒𝑘𝑣𝑜𝑡𝑒
+ *𝑮𝑹𝑶𝑼𝑷 𝑴𝑬𝑵𝑼*
+ ${prefix}𝑙𝑖𝑛𝑘𝑔𝑟𝑜𝑢𝑝
+ ${prefix}𝑠𝑒𝑡𝑝𝑝𝑔𝑐[𝒊𝒎𝒂𝒈𝒆]
+ ${prefix}𝑠𝑒𝑡𝑛𝑎𝑚𝑒 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑠𝑒𝑡𝑑𝑒𝑠𝑐 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑔𝑟𝑜𝑝 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑒𝑑𝑖𝑡𝑖𝑛𝑓𝑜 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑎𝑑𝑑 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑘𝑖𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}ℎ𝑖𝑑𝑒𝑡𝑎𝑔 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑡𝑎𝑔𝑎𝑙𝑙 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 [𝒐𝒏/𝒐𝒇𝒇]
+ ${prefix}𝑚𝑢𝑡𝑒 [𝒐𝒏/𝒐𝒇𝒇]
+ ${prefix}𝑝𝑟𝑜𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑑𝑒𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑣𝑜𝑡𝑒 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑑𝑒𝑣𝑜𝑡𝑒
+ ${prefix}𝑢𝑝𝑣𝑜𝑡𝑒
+ ${prefix}𝑐𝑒𝑘𝑣𝑜𝑡𝑒
 
-     *𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑬𝑹*    
-𑁍 ${prefix}𝑝𝑙𝑎𝑦 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑛𝑜𝑤𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑤𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑚𝑝3 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑖𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑓𝑎𝑐𝑒𝑏𝑜𝑜𝑘 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑦𝑡𝑚𝑝3 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑦𝑡𝑚𝑝4 [𝒖𝒓𝒍]
+  *𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑬𝑹*    
+ ${prefix}𝑝𝑙𝑎𝑦 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑛𝑜𝑤𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑤𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑚𝑝3 [𝒖𝒓𝒍]
+ ${prefix}𝑖𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑓𝑎𝑐𝑒𝑏𝑜𝑜𝑘 [𝒖𝒓𝒍]
+ ${prefix}𝑦𝑡𝑚𝑝3 [𝒖𝒓𝒍]
+ ${prefix}𝑦𝑡𝑚𝑝4 [𝒖𝒓𝒍]
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
-     *𝑺𝑬𝑨𝑹𝑪𝑯 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑦𝑡𝑠 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑔𝑜𝑜𝑔𝑙𝑒 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑔𝑖𝑚𝑎𝑔𝑒 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑤𝑎𝑙𝑙𝑝𝑎𝑝𝑒𝑟 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑤𝑖𝑘𝑖𝑚𝑒𝑑𝑖𝑎 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑦𝑡𝑠𝑒𝑎𝑟??ℎ [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑟𝑖𝑛𝑔𝑡𝑜𝑛𝑒 [𝒒𝒖𝒆𝒓𝒚]
+  *𝑺𝑬𝑨𝑹𝑪𝑯 𝑴𝑬𝑵𝑼*
+ ${prefix}𝑦𝑡𝑠 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑔𝑜𝑜𝑔𝑙𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑔𝑖𝑚𝑎𝑔𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑤𝑎𝑙𝑙𝑝𝑎𝑝𝑒𝑟 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑤𝑖𝑘𝑖𝑚𝑒𝑑𝑖𝑎 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑦𝑡𝑠𝑒𝑎𝑟??ℎ [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑟𝑖𝑛𝑔𝑡𝑜𝑛𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ 
+  *𝑴𝑨𝑰𝑵 𝑴𝑬𝑵𝑼*
+ ${prefix}𝑡𝑜𝑖𝑚𝑎𝑔𝑒 
+ ${prefix}𝑟𝑒𝑚𝑜𝑣𝑒𝑏𝑔
+ ${prefix}𝑝𝑖𝑛𝑔
+ ${prefix}𝑜𝑤𝑛𝑒𝑟
+ ${prefix}𝑚𝑒𝑛𝑢 / ${prefix}ℎ𝑒𝑙𝑝 / ${prefix}?
+ ${prefix}𝑑𝑒𝑙𝑒𝑡𝑒
+ ${prefix}𝑖𝑛𝑓𝑜𝑐ℎ𝑎𝑡
+ ${prefix}𝑙𝑖𝑠𝑡𝑔𝑐
+ ${prefix}𝑙𝑖𝑠𝑡𝑜𝑛𝑙𝑖𝑛𝑒
 
-      *𝑪𝑶𝑵𝑽𝑬𝑹𝑻 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑡𝑜𝑖𝑚𝑎𝑔𝑒
-𑁍 ${prefix}𝑟𝑒𝑚𝑜𝑣𝑒𝑏𝑔
-𑁍 ${prefix}𝑠𝑡𝑖𝑐𝑘𝑒𝑟
-𑁍 ${prefix}𝑒𝑚𝑜𝑗𝑖𝑚𝑖𝑥
-𑁍 ${prefix}𝑡𝑜𝑣𝑖𝑑𝑒𝑜
-𑁍 ${prefix}𝑡𝑜𝑔𝑖𝑓
-𑁍 ${prefix}𝑡𝑜𝑢𝑟𝑙
-𑁍 ${prefix}𝑡𝑜𝑣𝑛
-𑁍 ${prefix}𝑡𝑜𝑚𝑝3
-𑁍 ${prefix}𝑡𝑜𝑎𝑢𝑑𝑖𝑜
-𑁍 ${prefix}𝑠𝑡𝑦𝑙𝑒𝑡𝑒𝑥𝑡
+  *𝑫𝑨𝑻𝑨𝑩𝑨𝑺𝑬 𝑴𝑬𝑵𝑼*
+ ${prefix}𝑠𝑒𝑡𝑐𝑚𝑑
+ ${prefix}𝑙𝑖𝑠𝑡𝑐𝑚𝑑
+ ${prefix}𝑑𝑒𝑙𝑐𝑚𝑑
+ ${prefix}𝑎𝑑𝑑𝑚𝑠𝑔
+ ${prefix}𝑙𝑖𝑠𝑡𝑚𝑠𝑔
+ ${prefix}𝑔𝑒𝑡𝑚𝑠𝑔
+ ${prefix}𝑑𝑒𝑙𝑚𝑠𝑔
 
-     *𝑴𝑨𝑰𝑵 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑝𝑖𝑛𝑔
-𑁍 ${prefix}𝑜𝑤𝑛𝑒𝑟
-𑁍 ${prefix}𝑚𝑒𝑛𝑢 / ${prefix}ℎ𝑒𝑙𝑝 / ${prefix}?
-𑁍 ${prefix}𝑑𝑒𝑙𝑒𝑡𝑒
-𑁍 ${prefix}𝑖𝑛𝑓𝑜𝑐ℎ𝑎𝑡
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑔𝑐
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑜𝑛𝑙𝑖𝑛𝑒
+  *𝑨𝑵𝑶𝑵𝒀𝑴𝑶𝑼𝑺 𝑵𝑬𝑵𝑼*
+ ${prefix}𝑎𝑛𝑜𝑛𝑦𝑚𝑜𝑢𝑠
+ ${prefix}𝑠𝑡𝑎𝑟𝑡
+ ${prefix}𝑛𝑒𝑥𝑡
+ ${prefix}𝑘𝑒𝑙𝑢𝑎𝑟
+ ${prefix}𝑠𝑒𝑛𝑑𝑘𝑜𝑛𝑡𝑎𝑘
 
-     *𝑫𝑨𝑻𝑨𝑩𝑨𝑺𝑬 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑠𝑒𝑡𝑐𝑚𝑑
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑐𝑚𝑑
-𑁍 ${prefix}𝑑𝑒𝑙𝑐𝑚𝑑
-𑁍 ${prefix}𝑎𝑑𝑑𝑚𝑠𝑔
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑚𝑠𝑔
-𑁍 ${prefix}𝑔𝑒𝑡𝑚𝑠𝑔
-𑁍 ${prefix}𝑑𝑒𝑙𝑚𝑠𝑔
+  *𝑽𝑶𝑰𝑪𝑬 𝑪𝑯𝑨𝑵𝑮𝑬𝑹*
+ ${prefix}𝑏𝑎𝑠𝑠
+ ${prefix}𝑏𝑙𝑜𝑤𝑛
+ ${prefix}𝑑𝑒𝑒𝑝
+ ${prefix}𝑒𝑎𝑟𝑟𝑎𝑝𝑒
+ ${prefix}𝑓𝑎𝑠𝑡
+ ${prefix}𝑓𝑎𝑡
+ ${prefix}𝑛𝑖𝑔ℎ𝑡𝑐𝑜𝑟𝑒
+ ${prefix}𝑟𝑒𝑣𝑒𝑟𝑠𝑒
+ ${prefix}𝑟𝑜𝑏𝑜𝑡
+ ${prefix}𝑠𝑙𝑜𝑤
+ ${prefix}𝑡𝑢𝑝𝑎𝑖
 
-     *𝑨𝑵𝑶𝑵𝒀𝑴𝑶𝑼𝑺 𝑵𝑬𝑵𝑼*
-𑁍 ${prefix}𝑎𝑛𝑜𝑛𝑦𝑚𝑜𝑢𝑠
-𑁍 ${prefix}𝑠𝑡𝑎𝑟𝑡
-𑁍 ${prefix}𝑛𝑒𝑥𝑡
-𑁍 ${prefix}𝑘𝑒𝑙𝑢𝑎𝑟
-𑁍 ${prefix}𝑠𝑒𝑛𝑑𝑘𝑜𝑛𝑡𝑎𝑘
-
-     *𝑽𝑶𝑰𝑪𝑬 𝑪𝑯𝑨𝑵𝑮𝑬𝑹*
-𑁍 ${prefix}𝑏𝑎𝑠𝑠
-𑁍 ${prefix}𝑏𝑙𝑜𝑤𝑛
-𑁍 ${prefix}𝑑𝑒𝑒𝑝
-𑁍 ${prefix}𝑒𝑎𝑟𝑟𝑎𝑝𝑒
-𑁍 ${prefix}𝑓𝑎𝑠𝑡
-𑁍 ${prefix}𝑓𝑎𝑡
-𑁍 ${prefix}𝑛𝑖𝑔ℎ𝑡𝑐𝑜𝑟𝑒
-𑁍 ${prefix}𝑟𝑒𝑣𝑒𝑟𝑠𝑒
-𑁍 ${prefix}𝑟𝑜𝑏𝑜𝑡
-𑁍 ${prefix}𝑠𝑙𝑜𝑤
-𑁍 ${prefix}𝑡𝑢𝑝𝑎𝑖
-
-     *𝑶𝑾𝑵𝑬𝑹 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
-𑁍 ${prefix}𝑙𝑒𝑎𝑣𝑒
-𑁍 ${prefix}𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [𝒊𝒎𝒂𝒈𝒆]
-𑁍 ${prefix}𝑠𝑒𝑡𝑒𝑥𝑖𝑓`
+  *𝑶𝑾𝑵𝑬𝑹 𝑴𝑬𝑵𝑼*
+ ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
+ ${prefix}𝑙𝑒𝑎𝑣𝑒
+ ${prefix}𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [𝒊𝒎𝒂𝒈𝒆]
+ ${prefix}𝑠𝑒𝑡𝑒𝑥𝑖𝑓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
                             hydratedContentText: anu,
                           //  locationMessage: {
                        //     jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
-                            hydratedFooterText: `LoRD-MD`,
+                            hydratedFooterText: `MR-MD`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑',
-                                    url: 'https://wa.me/919778383987'
+                                    displayText: 'ᴡʜᴀᴛꜱᴀᴩᴩ',
+                                    url: 'https://wa.me/918590822912'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    displayText: 'ɪɴꜱᴛᴀɢʀᴀᴍ',
+                                    url: 'http://instagram.com/_munavir._'
                                 }
                             }]
                         }
@@ -1818,41 +1812,41 @@ break
 
           case 'menu': case 'help': case '?': {
                 anu = `
-      𝐋𝐨𝐑𝐃-𝐌𝐃
+   𝑴𝑹 𝑩𝑶𝑻 𝑴𝑫📍 
  
-✘ 𝑽𝒆𝒓𝒔𝒊𝒐𝒏: 0.0.1
+🌠 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 0.0.1
 
-✘ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚: Baileys-MD
+🌠 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: Baileys-MD
 
-✘ 𝑴𝒐𝒅𝒆: Public
+🌠 𝙼𝙾𝙳𝙴: Public
 
-✘ 𝑹𝒖𝒏𝒕𝒊𝒎𝒆: ${runtime(process.uptime())}
+🌠 𝚁𝚄𝙽𝚃𝙸𝙼𝙴: ${runtime(process.uptime())}
 `
 
 
                 let btn = [{
                                 urlButton: {
-                                    displayText: '𝑮𝒊𝒕𝒉𝒖𝒃',
-                                    url: 'https://github.com/Lord-official'
+                                    displayText: 'ᴡʜᴀᴛꜱᴀᴩᴩ',
+                                    url: 'http://wa.me/918590822912'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    displayText: 'ɪɴꜱᴛᴀɢʀᴀᴍ',
+                                    url: 'http://instagram.com/_munavir._'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝑳𝒊𝒔𝒕 𝑴𝒆𝒏𝒖',
+                                    displayText: 'ʟɪꜱᴛ ᴍᴇɴᴜ',
                                     id: 'menulist'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝑨𝒍𝒍 𝒎𝒆𝒏𝒖',
+                                    displayText: 'ᴀʟʟ ᴍᴇɴᴜ',
                                     id: 'allmenu'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝑪𝒓𝒆𝒅𝒊𝒕𝒔',
+                                    displayText: 'ᴍᴜɴᴀᴠɪʀ',
                                     id: 'hehe'
                                 }
                             }]
@@ -1865,24 +1859,24 @@ break
 case 'groupmenu': {
 	            anu = `
   *𝑮𝑹𝑶𝑼𝑷 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑙𝑖𝑛𝑘𝑔𝑟𝑜𝑢𝑝
-𑁍 ${prefix}𝑠𝑒𝑡𝑝𝑝𝑔𝑐[𝒊𝒎𝒂𝒈𝒆]
-𑁍 ${prefix}𝑠𝑒𝑡𝑛𝑎𝑚𝑒 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑠𝑒𝑡𝑑𝑒𝑠𝑐 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑔𝑟𝑜𝑝 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑒𝑑𝑖𝑡𝑖𝑛𝑓𝑜 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑎𝑑𝑑 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑘𝑖𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}ℎ𝑖𝑑𝑒𝑡𝑎𝑔 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑡𝑎𝑔𝑎𝑙𝑙 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 [𝒐𝒏/𝒐𝒇𝒇]
-𑁍 ${prefix}𝑚𝑢𝑡𝑒 [𝒐𝒏/𝒐𝒇𝒇]
-𑁍 ${prefix}𝑝𝑟𝑜𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑑𝑒𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑣𝑜𝑡𝑒 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑑𝑒𝑣𝑜𝑡𝑒
-𑁍 ${prefix}𝑢𝑝𝑣𝑜𝑡𝑒
-𑁍 ${prefix}𝑐𝑒𝑘𝑣𝑜𝑡𝑒
+ ${prefix}𝑙𝑖𝑛𝑘𝑔𝑟𝑜𝑢𝑝
+ ${prefix}𝑠𝑒𝑡𝑝𝑝𝑔𝑐[𝒊𝒎𝒂𝒈𝒆]
+ ${prefix}𝑠𝑒𝑡𝑛𝑎𝑚𝑒 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑠𝑒𝑡𝑑𝑒𝑠𝑐 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑔𝑟𝑜𝑝 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑒𝑑𝑖𝑡𝑖𝑛𝑓𝑜 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑎𝑑𝑑 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑘𝑖𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}ℎ𝑖𝑑𝑒𝑡𝑎𝑔 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑡𝑎𝑔𝑎𝑙𝑙 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 [𝒐𝒏/𝒐𝒇𝒇]
+ ${prefix}𝑚𝑢𝑡𝑒 [𝒐𝒏/𝒐𝒇𝒇]
+ ${prefix}𝑝𝑟𝑜𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑑𝑒𝑚𝑜𝑡𝑒 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑣𝑜𝑡𝑒 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑑𝑒𝑣𝑜𝑡𝑒
+ ${prefix}𝑢𝑝𝑣𝑜𝑡𝑒
+ ${prefix}𝑐𝑒𝑘𝑣𝑜𝑡𝑒
   `
   reply(anu)
   }
@@ -1891,14 +1885,14 @@ case 'groupmenu': {
 case 'downloadmenu': {
 	okemenu = `
 *𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑬𝑹*    
-𑁍 ${prefix}𝑝𝑙𝑎𝑦 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑛𝑜𝑤𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑤𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑚𝑝3 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑖𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑓𝑎𝑐𝑒𝑏𝑜𝑜𝑘 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑦𝑡𝑚𝑝3 [𝒖𝒓𝒍]
-𑁍 ${prefix}𝑦𝑡𝑚𝑝4 [𝒖𝒓𝒍]
+ ${prefix}𝑝𝑙𝑎𝑦 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑛𝑜𝑤𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑤𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑡𝑖𝑘𝑡𝑜𝑘𝑚𝑝3 [𝒖𝒓𝒍]
+ ${prefix}𝑖𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚 [𝒖𝒓𝒍]
+ ${prefix}𝑓𝑎𝑐𝑒𝑏𝑜𝑜𝑘 [𝒖𝒓𝒍]
+ ${prefix}𝑦𝑡𝑚𝑝3 [𝒖𝒓𝒍]
+ ${prefix}𝑦𝑡𝑚𝑝4 [𝒖𝒓𝒍]
   `
   reply(okemenu)
    }
@@ -1906,13 +1900,13 @@ case 'downloadmenu': {
             case 'searchmenu': {
             	anu = `
 *𝑺𝑬𝑨𝑹𝑪𝑯 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑦𝑡𝑠 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑔𝑜𝑜𝑔𝑙𝑒 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑔𝑖𝑚𝑎𝑔𝑒 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑤𝑎𝑙𝑙𝑝𝑎𝑝𝑒𝑟 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑤𝑖𝑘𝑖𝑚𝑒𝑑𝑖𝑎 [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑦𝑡𝑠𝑒𝑎𝑟??ℎ [𝒒𝒖𝒆𝒓𝒚]
-𑁍 ${prefix}𝑟𝑖𝑛𝑔𝑡𝑜𝑛𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑦𝑡𝑠 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑔𝑜𝑜𝑔𝑙𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑔𝑖𝑚𝑎𝑔𝑒 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑤𝑎𝑙𝑙𝑝𝑎𝑝𝑒𝑟 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑤𝑖𝑘𝑖𝑚𝑒𝑑𝑖𝑎 [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑦𝑡𝑠𝑒𝑎𝑟??ℎ [𝒒𝒖𝒆𝒓𝒚]
+ ${prefix}𝑟𝑖𝑛𝑔𝑡𝑜𝑛𝑒 [𝒒𝒖𝒆𝒓𝒚]
   `
   reply(anu)
             }
@@ -1920,17 +1914,17 @@ break
 case 'convertmenu': {
 	anu = `
 *𝑪𝑶𝑵𝑽𝑬𝑹𝑻 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑡𝑜𝑖𝑚𝑎𝑔𝑒
-𑁍 ${prefix}𝑟𝑒𝑚𝑜𝑣𝑒𝑏𝑔
-𑁍 ${prefix}𝑠𝑡𝑖𝑐𝑘𝑒𝑟
-𑁍 ${prefix}𝑒𝑚𝑜𝑗𝑖𝑚𝑖𝑥
-𑁍 ${prefix}𝑡𝑜𝑣𝑖𝑑𝑒𝑜
-𑁍 ${prefix}𝑡𝑜𝑔𝑖𝑓
-𑁍 ${prefix}𝑡𝑜𝑢𝑟𝑙
-𑁍 ${prefix}𝑡𝑜𝑣𝑛
-𑁍 ${prefix}𝑡𝑜𝑚𝑝3
-𑁍 ${prefix}𝑡𝑜𝑎𝑢𝑑𝑖𝑜
-𑁍 ${prefix}𝑠𝑡𝑦𝑙𝑒𝑡𝑒𝑥𝑡
+ ${prefix}𝑡𝑜𝑖𝑚𝑎𝑔𝑒
+ ${prefix}𝑟𝑒𝑚𝑜𝑣𝑒𝑏𝑔
+ ${prefix}𝑠𝑡𝑖𝑐𝑘𝑒𝑟
+ ${prefix}𝑒𝑚𝑜𝑗𝑖𝑚𝑖𝑥
+ ${prefix}𝑡𝑜𝑣𝑖𝑑𝑒𝑜
+ ${prefix}𝑡𝑜𝑔𝑖𝑓
+ ${prefix}𝑡𝑜𝑢𝑟𝑙
+ ${prefix}𝑡𝑜𝑣𝑛
+ ${prefix}𝑡𝑜𝑚𝑝3
+ ${prefix}𝑡𝑜𝑎𝑢𝑑𝑖𝑜
+ ${prefix}𝑠𝑡𝑦𝑙𝑒𝑡𝑒𝑥𝑡
   `
   reply(anu)
             }
@@ -1938,13 +1932,13 @@ break
 case 'mainmenu': {
 	anu = `
 *𝑴𝑨𝑰𝑵 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑝𝑖𝑛𝑔
-𑁍 ${prefix}𝑜𝑤𝑛𝑒𝑟
-𑁍 ${prefix}𝑚𝑒𝑛𝑢 / ${prefix}ℎ𝑒𝑙𝑝 / ${prefix}?
-𑁍 ${prefix}𝑑𝑒𝑙𝑒𝑡𝑒
-𑁍 ${prefix}𝑖𝑛𝑓𝑜𝑐ℎ𝑎𝑡
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑔𝑐
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑜𝑛𝑙𝑖𝑛𝑒
+ ${prefix}𝑝𝑖𝑛𝑔
+ ${prefix}𝑜𝑤𝑛𝑒𝑟
+ ${prefix}𝑚𝑒𝑛𝑢 / ${prefix}ℎ𝑒𝑙𝑝 / ${prefix}?
+ ${prefix}𝑑𝑒𝑙𝑒𝑡𝑒
+ ${prefix}𝑖𝑛𝑓𝑜𝑐ℎ𝑎𝑡
+ ${prefix}𝑙𝑖𝑠𝑡𝑔𝑐
+ ${prefix}𝑙𝑖𝑠𝑡𝑜𝑛𝑙𝑖𝑛𝑒
   `
   reply(anu)
             }
@@ -1952,13 +1946,13 @@ break
 case 'databasemenu': {
 	anu = `
  *𝑫𝑨𝑻𝑨𝑩𝑨𝑺𝑬 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑠𝑒𝑡𝑐𝑚𝑑
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑐𝑚𝑑
-𑁍 ${prefix}𝑑𝑒𝑙𝑐𝑚𝑑
-𑁍 ${prefix}𝑎𝑑𝑑𝑚𝑠𝑔
-𑁍 ${prefix}𝑙𝑖𝑠𝑡𝑚𝑠𝑔
-𑁍 ${prefix}𝑔𝑒𝑡𝑚𝑠𝑔
-𑁍 ${prefix}𝑑𝑒𝑙𝑚𝑠𝑔
+ ${prefix}𝑠𝑒𝑡𝑐𝑚𝑑
+ ${prefix}𝑙𝑖𝑠𝑡𝑐𝑚𝑑
+ ${prefix}𝑑𝑒𝑙𝑐𝑚𝑑
+ ${prefix}𝑎𝑑𝑑𝑚𝑠𝑔
+ ${prefix}𝑙𝑖𝑠𝑡𝑚𝑠𝑔
+ ${prefix}𝑔𝑒𝑡𝑚𝑠𝑔
+ ${prefix}𝑑𝑒𝑙𝑚𝑠𝑔
 `
 reply(anu)
             }
@@ -1966,42 +1960,42 @@ break
 case 'anonymousmenu': {
 	anu = `
 *𝑨𝑵𝑶𝑵𝒀𝑴𝑶𝑼𝑺 𝑵𝑬𝑵𝑼*
-𑁍 ${prefix}𝑎𝑛𝑜𝑛𝑦𝑚𝑜𝑢𝑠
-𑁍 ${prefix}𝑠𝑡𝑎𝑟𝑡
-𑁍 ${prefix}𝑛𝑒𝑥𝑡
-𑁍 ${prefix}𝑘𝑒𝑙𝑢𝑎𝑟
-𑁍 ${prefix}𝑠𝑒𝑛𝑑𝑘𝑜𝑛𝑡𝑎𝑘`
+ ${prefix}𝑎𝑛𝑜𝑛𝑦𝑚𝑜𝑢𝑠
+ ${prefix}𝑠𝑡𝑎𝑟𝑡
+ ${prefix}𝑛𝑒𝑥𝑡
+ ${prefix}𝑘𝑒𝑙𝑢𝑎𝑟
+ ${prefix}𝑠𝑒𝑛𝑑𝑘𝑜𝑛𝑡𝑎𝑘`
 reply(anu)
             }
 break
 case 'voicemenu': {
 	anu = `
 *𝑽𝑶𝑰𝑪𝑬 𝑪𝑯𝑨𝑵𝑮𝑬𝑹*
-𑁍 ${prefix}𝑏𝑎𝑠𝑠
-𑁍 ${prefix}𝑏𝑙𝑜𝑤𝑛
-𑁍 ${prefix}𝑑𝑒𝑒𝑝
-𑁍 ${prefix}𝑒𝑎𝑟𝑟𝑎𝑝𝑒
-𑁍 ${prefix}𝑓𝑎𝑠𝑡
-𑁍 ${prefix}𝑓𝑎𝑡
-𑁍 ${prefix}𝑛𝑖𝑔ℎ𝑡𝑐𝑜𝑟𝑒
-𑁍 ${prefix}𝑟𝑒𝑣𝑒𝑟𝑠𝑒
-𑁍 ${prefix}𝑟𝑜𝑏𝑜𝑡
-𑁍 ${prefix}𝑠𝑙𝑜𝑤
-𑁍 ${prefix}𝑡𝑢𝑝𝑎𝑖`
+ ${prefix}𝑏𝑎𝑠𝑠
+ ${prefix}𝑏𝑙𝑜𝑤𝑛
+ ${prefix}𝑑𝑒𝑒𝑝
+ ${prefix}𝑒𝑎𝑟𝑟𝑎𝑝𝑒
+ ${prefix}𝑓𝑎𝑠𝑡
+ ${prefix}𝑓𝑎𝑡
+ ${prefix}𝑛𝑖𝑔ℎ𝑡𝑐𝑜𝑟𝑒
+ ${prefix}𝑟𝑒𝑣𝑒𝑟𝑠𝑒
+ ${prefix}𝑟𝑜𝑏𝑜𝑡
+ ${prefix}𝑠𝑙𝑜𝑤
+ ${prefix}𝑡𝑢𝑝𝑎𝑖`
   reply(anu)
             }
 break
 case 'ownermenu': {
 	anu = `
  *𝑶𝑾𝑵𝑬𝑹 𝑴𝑬𝑵𝑼*
-𑁍 ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
-𑁍 ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
-𑁍 ${prefix}𝑙𝑒𝑎𝑣𝑒
-𑁍 ${prefix}𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
-𑁍 ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [𝒕𝒆𝒙𝒕]
-𑁍 ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [𝒊𝒎𝒂𝒈𝒆]
-𑁍 ${prefix}𝑠𝑒𝑡𝑒𝑥𝑖𝑓
+ ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
+ ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
+ ${prefix}𝑙𝑒𝑎𝑣𝑒
+ ${prefix}𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑢𝑛𝑏𝑙𝑜𝑐𝑘 @𝒖𝒔𝒆𝒓
+ ${prefix}𝑏𝑐𝑔𝑟𝑜𝑢𝑝 [𝒕𝒆𝒙𝒕]
+ ${prefix}𝑠𝑒𝑡𝑏𝑜𝑡𝑝𝑝 [𝒊𝒎𝒂𝒈𝒆]
+ ${prefix}𝑠𝑒𝑡𝑒𝑥𝑖𝑓
   `
   reply(anu)
             }
